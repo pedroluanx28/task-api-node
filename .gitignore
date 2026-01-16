@@ -1,0 +1,5 @@
+dist
+node_modules
+pacakge-lock.json
+.env
+/generated/prisma
